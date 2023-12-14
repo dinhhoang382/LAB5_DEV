@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267864783668",
+    "project_id": "laboratory-2ff4f",
+    "storage_bucket": "laboratory-2ff4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267864783668:android:ece82be1e91c2a080c8361",
+        "android_client_info": {
+          "package_name": "com.hoangexpo2.Lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrzXHymegWeCytPH1_dvlqBkFOFFj39E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267864783668:android:6781c0317101fa2f0c8361",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrzXHymegWeCytPH1_dvlqBkFOFFj39E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
